@@ -1,0 +1,25 @@
+
+
+.odd {
+    background-color: hsla(0,0%,0%,1);
+    color: rgb(255, 255, 255);
+}
+
+.odd,
+.even {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.odd {
+    /*several unique declarations*/
+}
+
+.even {
+    /*several unique declarations*/
+}
+
+.even {
+    background: rgb(238, 238, 11)
+}
+

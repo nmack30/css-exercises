@@ -1,0 +1,13 @@
+.container .text {
+    background-color: rgb(255, 251, 0);
+    color: hsla(0,100%,50%,1);
+    font-size: 20px;
+    text-align: center;
+}
+
+/*
+Some possible descendent combinators with type and class selectors:
+div p
+div .text
+.container p
+*/
